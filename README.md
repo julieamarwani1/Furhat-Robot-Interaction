@@ -1,2 +1,2 @@
 # Virtual Salesman
-Furhat Robot reacts ac-cording to the gesture provided in the input video
+Furhat Robot reacts according to the gesture provided in the input video
