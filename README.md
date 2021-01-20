@@ -13,8 +13,8 @@ Our virtual robot acts as a virtual salesman and provides all the information ab
 
 
 ## done tests:
-| Name | Who tested | Black/White |
-| ------------- |-------------| -----|
-|count   | Tabea | Black |
+| Name | Who tested | Black/White |  Name |
+| ------------- |-------------| -----| -----|
+|count   | Tabea | Black | Black |
 
 
